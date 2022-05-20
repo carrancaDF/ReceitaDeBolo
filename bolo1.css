@@ -1,0 +1,30 @@
+h1 {
+    font-size: 65px;
+    text-align: center;
+    background-color: burlywood;
+    color: brown;   
+    font-family: Verdana;
+            }
+h2{
+    font-size: 30px;
+    font-family: Verdana;
+    color: brown;
+    text-align: center;
+}  
+
+div{
+font-family: Verdana;
+line-height: 32px;
+
+
+}
+
+h3{
+font-size: 25px;
+color:brown;
+text-align: center;
+text-decoration: underline;
+}
+
+
+
